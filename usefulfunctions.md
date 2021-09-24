@@ -42,6 +42,8 @@ Other functions can be attached to specific columns, which would be accessed by 
 * `mydf['mycolumn'].count()` - count all numbers in the column
 * `mydf['mycolumn'].min()` - show the smallest number in the column
 * `mydf['mycolumn'].max()` - show the largest number in the column
+* `mydf['mycolumn'].mean()` - show the mean average of numbers in the column
+* `mydf['mycolumn'].median()` - show the median average of numbers in the column
 
 ## For loops
 
